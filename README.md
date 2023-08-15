@@ -16,8 +16,6 @@ Example: !reminder 30 minutes will set a reminder for 30 minutes.
 
 Dynamic Status: The bot's presence showcases various reminder-related messages and emojis, making its presence dynamic and engaging.
 
-Website Access: Click the "Visit My Website" button on the bot's profile to directly access the provided website (e.g., https://qoypyon.top).
-
 Note:
 
 Make sure to replace placeholders ([time value], [time unit], YOUR_BOT_TOKEN) with appropriate values.
